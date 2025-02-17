@@ -16,7 +16,8 @@ read -p "dialogue 3 p.s : kitne admi the :" d3
 echo "$d1"
 echo "$d2"
 echo "$d3"
-
+echo"welcome to the show gabbar singh and thakur conversation "
+echo "lets hope you all enjoy it "
 
 if [[ $d2 == "nahi" ]];
 then

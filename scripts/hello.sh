@@ -1,5 +1,8 @@
 #!/bin/bash
-
+<< help
+this is the script which is used for greeting anyone
+it says hello
+help
 
 
 echo "gabbar:kitne aadmi the"

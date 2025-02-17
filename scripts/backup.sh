@@ -21,7 +21,7 @@ backup_dir=" /home/ubuntu/backups/${timestamp}_backup.zip"
 
 zip -r $backup_dir $1
 
-echo "BACKUP COMPLETE"
+echo "BACKUP COMPLETE SUCCESSFULLY"
 
 
 }
